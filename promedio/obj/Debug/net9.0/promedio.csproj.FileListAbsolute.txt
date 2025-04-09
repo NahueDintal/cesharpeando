@@ -1,0 +1,15 @@
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.AssemblyInfoInputs.cache
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.AssemblyInfo.cs
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.csproj.CoreCompileInputs.cache
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.sourcelink.json
+/home/nahue/cesharpeando/promedio/bin/Debug/net9.0/promedio
+/home/nahue/cesharpeando/promedio/bin/Debug/net9.0/promedio.deps.json
+/home/nahue/cesharpeando/promedio/bin/Debug/net9.0/promedio.runtimeconfig.json
+/home/nahue/cesharpeando/promedio/bin/Debug/net9.0/promedio.dll
+/home/nahue/cesharpeando/promedio/bin/Debug/net9.0/promedio.pdb
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.dll
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/refint/promedio.dll
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.pdb
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/promedio.genruntimeconfig.cache
+/home/nahue/cesharpeando/promedio/obj/Debug/net9.0/ref/promedio.dll
