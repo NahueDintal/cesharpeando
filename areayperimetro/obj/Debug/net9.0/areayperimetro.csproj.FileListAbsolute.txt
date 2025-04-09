@@ -1,0 +1,15 @@
+/home/nahue/cesharpeando/areayperimetro/bin/Debug/net9.0/areayperimetro
+/home/nahue/cesharpeando/areayperimetro/bin/Debug/net9.0/areayperimetro.deps.json
+/home/nahue/cesharpeando/areayperimetro/bin/Debug/net9.0/areayperimetro.runtimeconfig.json
+/home/nahue/cesharpeando/areayperimetro/bin/Debug/net9.0/areayperimetro.dll
+/home/nahue/cesharpeando/areayperimetro/bin/Debug/net9.0/areayperimetro.pdb
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.AssemblyInfoInputs.cache
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.AssemblyInfo.cs
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.csproj.CoreCompileInputs.cache
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.sourcelink.json
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.dll
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/refint/areayperimetro.dll
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.pdb
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/areayperimetro.genruntimeconfig.cache
+/home/nahue/cesharpeando/areayperimetro/obj/Debug/net9.0/ref/areayperimetro.dll

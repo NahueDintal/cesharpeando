@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahue/cesharpeando/cesharpeando.csproj",
-      "projectName": "cesharpeando",
-      "projectPath": "/home/nahue/cesharpeando/cesharpeando.csproj",
+      "projectUniqueName": "/home/nahue/cesharpeando/areayperimetro/areayperimetro.csproj",
+      "projectName": "areayperimetro",
+      "projectPath": "/home/nahue/cesharpeando/areayperimetro/areayperimetro.csproj",
       "packagesPath": "/home/nahue/.nuget/packages/",
-      "outputPath": "/home/nahue/cesharpeando/obj/",
+      "outputPath": "/home/nahue/cesharpeando/areayperimetro/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nahue/.nuget/NuGet/NuGet.Config"
