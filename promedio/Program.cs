@@ -1,14 +1,17 @@
 ﻿Console.WriteLine(":: Promedio!");
 
-Console.Write(":: Ingresa N1!");
-double N1 = Convert.ToInt32(Console.ReadLine());
+Console.Write(":: Ingresa la cantidad de notas a promediar: ");
+int cantidaddeNotas = int.Parse(Console.ReadLine());
 
-Console.Write(":: Ingresa N2!");
-double N2 = Convert.ToInt32(Console.ReadLine());
+double suma = 0;
 
-Console.Write(":: Ingresa N3!");
-double N3 = Convert.ToInt32(Console.ReadLine());
 
-double promedio = (N1 + N2 + N3)/3;
-Console.WriteLine($"\n:: Promedio Final: {promedio}");
+for (int i = 0; i < cantidaddeNotas; i++)  
+{  
+    Console.Write($":: Ingresa nota: #{i+1}: ");  
+    double nota = double.Parse(Console.ReadLine());
+    suma += nota;
+}  
 
+double promedio = suma / cantidaddeNotas;
+Console.WriteLine($":: El promedio es: {promedio}");

@@ -1,0 +1,5 @@
+/home/nahue/cesharpeando/6-ejercicio/obj/Debug/net9.0/6-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahue/cesharpeando/6-ejercicio/obj/Debug/net9.0/6-ejercicio.AssemblyInfoInputs.cache
+/home/nahue/cesharpeando/6-ejercicio/obj/Debug/net9.0/6-ejercicio.AssemblyInfo.cs
+/home/nahue/cesharpeando/6-ejercicio/obj/Debug/net9.0/6-ejercicio.csproj.CoreCompileInputs.cache
+/home/nahue/cesharpeando/6-ejercicio/obj/Debug/net9.0/6-ejercicio.sourcelink.json
