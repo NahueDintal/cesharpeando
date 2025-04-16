@@ -1,0 +1,22 @@
+
+int precio, cantidad, descuento, total ;      
+double totalapagar, descuentototal;               
+Console.WriteLine("Escriba el precio:");
+precio = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Escriba la cantidad:");
+cantidad = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Escriba el descuento:");
+descuento = Convert.ToInt32(Console.ReadLine());
+
+//Proceso matematico
+total = (precio * cantidad);
+descuentototal = (total * descuento) / 100;
+totalapagar = total - descuento;
+
+Console.WriteLine("El precio por producto es:");
+Console.WriteLine(precio);
+Console.WriteLine("La cantidad que lleva es:");
+Console.WriteLine(cantidad);
+Console.WriteLine("El descuento es de "+descuentototal+" %");
+Console.WriteLine("El total a pagar es: "+ totalapagar);
+
