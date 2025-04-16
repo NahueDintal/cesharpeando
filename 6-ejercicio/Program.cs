@@ -3,16 +3,17 @@
 // cantidad ingresada-
 
 // Ingreso
-Console.WriteLine("Por favor ingrese la cantidad de pesos a calcular");
+Console.WriteLine(":: Por favor ingrese la cantidad de pesos a calcular");
 double pesos = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine("Por favor ingrese la moneda que quiera convertir:1-Dolar, 2-Euro, 3-Real");
-double monedaaconvertir = Convert.ToDouble(Console.ReadLine());
-
-double "1" = 1097;
-double "3" = 194;
-double "2" = 1302;
+double dolares = 1097;
+double reales = 194;
+double euros = 1302;
 
 // Proceso
-double total = monedaaconvertir * pesos;
-Console.WriteLine(total);
+double converdolares = dolares * pesos;
+double converreales = reales * pesos;
+double convereuros = euros * pesos;
+
+// Salida
+Console.WriteLine($"\n :: Valor en Dolares {converdolares}, Valor en Reales {converreales}, Valor en Euros {convereuros}");
