@@ -1,0 +1,15 @@
+/home/nahue/cesharpeando/8-ejercicio/bin/Debug/net9.0/8-ejercicio
+/home/nahue/cesharpeando/8-ejercicio/bin/Debug/net9.0/8-ejercicio.deps.json
+/home/nahue/cesharpeando/8-ejercicio/bin/Debug/net9.0/8-ejercicio.runtimeconfig.json
+/home/nahue/cesharpeando/8-ejercicio/bin/Debug/net9.0/8-ejercicio.dll
+/home/nahue/cesharpeando/8-ejercicio/bin/Debug/net9.0/8-ejercicio.pdb
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.AssemblyInfoInputs.cache
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.AssemblyInfo.cs
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.csproj.CoreCompileInputs.cache
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.sourcelink.json
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.dll
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/refint/8-ejercicio.dll
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.pdb
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/8-ejercicio.genruntimeconfig.cache
+/home/nahue/cesharpeando/8-ejercicio/obj/Debug/net9.0/ref/8-ejercicio.dll
