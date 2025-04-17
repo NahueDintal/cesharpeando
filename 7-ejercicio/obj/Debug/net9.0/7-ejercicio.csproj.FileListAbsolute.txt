@@ -3,6 +3,7 @@
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/7-ejercicio.AssemblyInfo.cs
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/7-ejercicio.csproj.CoreCompileInputs.cache
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/7-ejercicio.sourcelink.json
+<<<<<<< HEAD
 /home/nahue/cesharpeando/7-ejercicio/bin/Debug/net9.0/7-ejercicio
 /home/nahue/cesharpeando/7-ejercicio/bin/Debug/net9.0/7-ejercicio.deps.json
 /home/nahue/cesharpeando/7-ejercicio/bin/Debug/net9.0/7-ejercicio.runtimeconfig.json
@@ -13,3 +14,5 @@
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/7-ejercicio.pdb
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/7-ejercicio.genruntimeconfig.cache
 /home/nahue/cesharpeando/7-ejercicio/obj/Debug/net9.0/ref/7-ejercicio.dll
+=======
+>>>>>>> 5b44a0d (intentando el ejercicio 7 con funciones)
