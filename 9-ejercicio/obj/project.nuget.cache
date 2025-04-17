@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbtpWw4qk1g=",
+  "success": true,
+  "projectFilePath": "/home/nahue/cesharpeando/9-ejercicio/9-ejercicio.csproj",
+  "expectedPackageFiles": [
+    "/home/nahue/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
