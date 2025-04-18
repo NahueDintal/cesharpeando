@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahue/cesharpeando/promedio/promedio.csproj",
+      "projectUniqueName": "/home/nahue/cesharpeando/1-ejercicio/promedio.csproj",
       "projectName": "promedio",
-      "projectPath": "/home/nahue/cesharpeando/promedio/promedio.csproj",
+      "projectPath": "/home/nahue/cesharpeando/1-ejercicio/promedio.csproj",
       "packagesPath": "/home/nahue/.nuget/packages/",
-      "outputPath": "/home/nahue/cesharpeando/promedio/obj/",
+      "outputPath": "/home/nahue/cesharpeando/1-ejercicio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nahue/.nuget/NuGet/NuGet.Config"

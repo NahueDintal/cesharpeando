@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("promedio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b84f394f19760b28625a921eb3004701784a1e24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d998083a64d9cc4b9c2f2063488d7e8790b79ef1")]
 [assembly: System.Reflection.AssemblyProductAttribute("promedio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("promedio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
