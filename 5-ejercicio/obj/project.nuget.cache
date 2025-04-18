@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZeuMqHD4Fh0=",
+  "dgSpecHash": "9msUCWeH9PU=",
   "success": true,
-  "projectFilePath": "/home/nahue/cesharpeando/3-ejercicio-bis/3-ejercicio-bis.csproj",
+  "projectFilePath": "/home/nahue/cesharpeando/5-ejercicio/3-ejercicio-bis.csproj",
   "expectedPackageFiles": [
     "/home/nahue/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
   ],

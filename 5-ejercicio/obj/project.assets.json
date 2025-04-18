@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahue/cesharpeando/3-ejercicio-bis/3-ejercicio-bis.csproj",
+      "projectUniqueName": "/home/nahue/cesharpeando/5-ejercicio/3-ejercicio-bis.csproj",
       "projectName": "3-ejercicio-bis",
-      "projectPath": "/home/nahue/cesharpeando/3-ejercicio-bis/3-ejercicio-bis.csproj",
+      "projectPath": "/home/nahue/cesharpeando/5-ejercicio/3-ejercicio-bis.csproj",
       "packagesPath": "/home/nahue/.nuget/packages/",
-      "outputPath": "/home/nahue/cesharpeando/3-ejercicio-bis/obj/",
+      "outputPath": "/home/nahue/cesharpeando/5-ejercicio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nahue/.nuget/NuGet/NuGet.Config"
