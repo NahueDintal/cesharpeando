@@ -10,7 +10,6 @@ Console.WriteLine(":: Ingrese precio!");
 // Entrada
 double precio = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(":: Ingrese la cantidad de productos!");
-// Entrada
 int cantidad = Convert.ToInt32(Console.ReadLine());
 // Proceso
 double subtotal = precio * cantidad;
