@@ -11,16 +11,44 @@ double precio = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine(":: Ingrese la cantidad de productos!");
 int cantidad = Convert.ToInt32(Console.ReadLine());
-// Proceso
+
 double subtotal = precio * cantidad;
-Console.WriteLine(subtotal);
-Console.WriteLine(":: Ingrese el opción de pago, 1 efectivo, 2 credito!");
+
+double total = 0;
+double recargo = 0;
+double descuento = 0;
+
+Console.WriteLine(":: Ingrese la opción de pago, 1 efectivo, 2 credito!");
 int opcion = Convert.ToInt32(Console.ReadLine());
 
-double porcentaje = Convert.ToDouble(Console.ReadLine());
-// Proceso
-double descuento = (subtotal * porcentaje / 100);
-Console.WriteLine(descuento);
+if (opcion == 1)
+        {
+            if (subtotal >= 100000)
+            {
+                descuento = subtotal * 0.10;
+            }
+            total = subtotal - descuento;
+        }
+        else if (opcion == 2)
+        {
+            recargo = subtotal * 0.30;
+            total = subtotal + recargo;
+        }
+        else
+        {
+            Console.WriteLine("Opción inválida");
+            return;
+        }
 
-double total = (subtotal - descuento);
-Console.WriteLine(total);
+        // Mostrar resultados
+        Console.WriteLine("\nDetalle de la compra:");
+        Console.WriteLine($"Subtotal: {subtotal:C}");
+        if (opcion == 1)
+        {
+            Console.WriteLine($"Descuento: {descuento:C}");
+        }
+        else
+        {
+            Console.WriteLine($"Recargo: {recargo:C}");
+        }
+        Console.WriteLine($"Total a pagar: {total:C}");
