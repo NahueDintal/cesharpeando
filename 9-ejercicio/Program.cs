@@ -22,33 +22,33 @@ Console.WriteLine(":: Ingrese la opción de pago, 1 efectivo, 2 credito!");
 int opcion = Convert.ToInt32(Console.ReadLine());
 
 if (opcion == 1)
-        {
-            if (subtotal >= 100000)
-            {
-                descuento = subtotal * 0.10;
-            }
-            total = subtotal - descuento;
-        }
-        else if (opcion == 2)
-        {
-            recargo = subtotal * 0.30;
-            total = subtotal + recargo;
-        }
-        else
-        {
-            Console.WriteLine("Opción inválida");
-            return;
-        }
+  {
+     if (subtotal >= 100000)
+    {
+      descuento = subtotal * 0.10;
+    }
+      total = subtotal - descuento;
+  }
+  else if (opcion == 2)
+    {
+      recargo = subtotal * 0.30;
+      total = subtotal + recargo;
+    }
+    else
+    {
+      Console.WriteLine(":: Escribí bien o te mato!!");
+      return;
+    }
 
-        // Mostrar resultados
-        Console.WriteLine("\nDetalle de la compra:");
-        Console.WriteLine($"Subtotal: {subtotal:C}");
-        if (opcion == 1)
-        {
-            Console.WriteLine($"Descuento: {descuento:C}");
-        }
-        else
-        {
-            Console.WriteLine($"Recargo: {recargo:C}");
-        }
-        Console.WriteLine($"Total a pagar: {total:C}");
+// Mostrar resultados
+Console.WriteLine(":: Detalle de la compra:");
+Console.WriteLine($":: Subtotal: {subtotal}");
+if (opcion == 1)
+{
+  Console.WriteLine($":: Descuento: {descuento}");
+}
+else
+{
+  Console.WriteLine($":: Recargo: {recargo}");
+}
+Console.WriteLine($":: Total a pagar: {total}");
