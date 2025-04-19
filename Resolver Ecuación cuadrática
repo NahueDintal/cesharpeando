@@ -1,0 +1,42 @@
+int a, b, c;
+
+Console.WriteLine("Ingrese el valor de a");
+a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el valor de b");
+b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Ingrese el valor de c");
+c = Convert.ToInt32(Console.ReadLine());
+
+
+double discriminante = (b * b) - (4 * a * c);
+double discriminanteraiz = Math.Sqrt(discriminante);
+double denominador = 2 * a;
+double resultadopositivo = (-b + discriminanteraiz) / denominador;
+double resultadonegativo = (-b - discriminanteraiz) / denominador;
+
+
+if (discriminante == 0)
+{   //Caso de una sola solución (discriminante cero)
+    Console.WriteLine("La ecuacion tiene una sola solucion");
+    double unicaSolucion = -b / (2 * a);
+    Console.WriteLine("El valor del discriminante es= " + discriminanteraiz);
+    Console.WriteLine("El valor del denominador es= " + denominador);
+    Console.WriteLine("El valor de la unica solucion es: " + unicaSolucion);
+}
+else if (discriminante < 0)
+{ //caso de solución imaginaria (raiz negativa)
+    double parteReal = -b / (2 * a); 
+    double parteImaginaria = Math.Sqrt(-discriminante) / (2 * a);
+    Console.WriteLine("La ecuacion tiene dos soluciones complejas");
+    Console.WriteLine("el valor de x1 positivo es= " + parteReal +"+"+parteImaginaria+ ("i"));
+    Console.WriteLine("el valor de x2 negativo es= " + parteReal +"+"+parteImaginaria + ("i"));
+} else
+{    //Caso con dos soluciónes reales (discriminante positivo)
+    Console.WriteLine("El valor del discriminante es= " + discriminanteraiz);
+    Console.WriteLine("El valor del denominador es= " + denominador);
+
+
+    Console.WriteLine("El valor de x1 positivo es= " + resultadopositivo);
+    Console.WriteLine("El valor de x2 negativo es= " + resultadonegativo);
+}
+
