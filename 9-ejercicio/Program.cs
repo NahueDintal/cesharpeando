@@ -41,7 +41,7 @@ if (opcion == 1)
     else
     {
       // Mensaje en caso de ingresar un valor que no es opción!
-      Console.WriteLine(":: Escribí bien o te mato!!");
+      Console.WriteLine(":: Escribí bien gorreao!!");
       return;
     }
 
