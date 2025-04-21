@@ -3,6 +3,7 @@
 // Inicio
 Console.WriteLine(":: Promedio!");
 Console.Write(":: Ingresa las notas a promediar");
+// Entrada
 Console.WriteLine(":: Ingresa el primer número");
 double num1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(":: Ingresa el segundo número");
