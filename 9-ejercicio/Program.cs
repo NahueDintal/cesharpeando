@@ -13,7 +13,7 @@ Console.WriteLine(":: Ingrese la cantidad de productos!");
 int cantidad = Convert.ToInt32(Console.ReadLine());
 // Proceso
 double subtotal = precio * cantidad;
-// Entradas en default
+// Variables inicializadas o declaracion de variables
 double total = 0;
 double recargo = 0;
 double descuento = 0;

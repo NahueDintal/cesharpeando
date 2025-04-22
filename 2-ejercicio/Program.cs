@@ -11,6 +11,6 @@ double h = Convert.ToDouble(Console.ReadLine());
 double area = b * h;
 double perimetro = 2 * ( b + h );
 // Salida
-Console.WriteLine($":: El resultado de area es: {area}");
+Console.WriteLine($":: El resultado de area es: " +area);
 Console.WriteLine($":: El resultado de perimetro es: {perimetro}");
 // Fin

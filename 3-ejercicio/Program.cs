@@ -9,7 +9,9 @@ Console.Write(":: Ingrese el valor del porcentaje de descuento!");
 double porcentaje = Convert.ToDouble(Console.ReadLine());
 // Proceso
 double descuento = subtotal * porcentaje / 100;
-// Salida
 double total = subtotal - descuento;
-Console.Write($":: El total a pagar es de: {total}");
+// Salida
+Console.WriteLine($":: El sub total es de: {subtotal}");
+Console.WriteLine($":: El porcentaje es de: {porcentaje}");
+Console.WriteLine($":: El total a pagar es de: {total}");
 // Fin!
