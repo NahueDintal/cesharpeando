@@ -5,20 +5,20 @@
 // Inicio
 // Ingreso
 Console.WriteLine(":: Ingrese cantidad de alumnos Ingles!");
-double ingles = Convert.ToDouble(Console.ReadLine());
+int ing = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(":: Ingrese cantidad de alumnos portugués!");
-double portugues = Convert.ToDouble(Console.ReadLine());
+int port = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(":: Ingrese cantidad de alumnos Francés!");
-double frances = Convert.ToDouble(Console.ReadLine());
+int fra = Convert.ToInt32(Console.ReadLine());
 // Proceso
-double suma = (ingles + portugues + frances);
+int suma = ( ing + port + fra );
 Console.WriteLine(":: Cantidad de alumnos!");
 Console.WriteLine(suma);
-double porcingles = (ingles/suma)*100;
-double porcportugues = (portugues/suma)*100;
-double porcfrances = (frances/suma)*100;
+int porcing = (ing*100)/suma;
+int porcport = (port*100)/suma;
+int porcfra = (fra*100)/suma;
 // Salida
-Console.WriteLine($":: alumnos de ingles: {porcingles}%");
-Console.WriteLine($":: alumnos de portugués: {porcportugues}%");
-Console.WriteLine($":: alumnos de francés: {porcfrances}%");
+Console.WriteLine($":: alumnos de ingles: {porcing}%");
+Console.WriteLine($":: alumnos de portugués: {porcport}%");
+Console.WriteLine($":: alumnos de francés: {porcfra}%");
 // Fin
