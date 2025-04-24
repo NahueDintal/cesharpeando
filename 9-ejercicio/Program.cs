@@ -44,7 +44,6 @@ if (opcion == 1)
       Console.WriteLine(":: Escribí bien gorreao!!");
       return;
     }
-
 // Salida, mostrar resultados
 Console.WriteLine(":: Detalle de la compra:");
 Console.WriteLine($":: Subtotal: ${subtotal}");
